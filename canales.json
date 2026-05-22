@@ -395,6 +395,14 @@
         "oculto": false
       },
       {
+        "name": "5 TV MAX",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "drm_license_uri": "",
+        "oculto": false
+      },
+      {
         "name": "PROGRESO TV CARAPEGUA",
         "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
         "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
