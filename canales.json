@@ -258,10 +258,11 @@
       },
       {
         "name": "AMERICA PY",
-        "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5NTkwODQzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0M1Ti9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4MWE5ZDA1ZmZhZTM5ZDdjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.5IvaLjzqVXFOi1n7nRIKKA0mGXCUUVl0Y4t2KtAPvAo54QEFX35VjwjRDXrL5UE3bDm7Nz--EkQlIwZxPfoduA==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(WD7zJj5mVuAcHglSLc8o9HrPvSlwUSxg2ftjDfyFk35Gk-6UGLN3AQcCHUid2eSSm8HEDHUy3SoyXits1N1ffvdY9sOZ7jgK4pEYGPEIyNK8Pmpc60RoY2ceOArvoSVe)/cloud/3/x9lh4mu/d/live-720.m3u8#cell=lcf2-eu-north-1a\"",
+        "type": "HLS",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45"
+        "drm_license_uri": "",
+        "oculto": false
       },
       {
         "name": "A24 PY",
