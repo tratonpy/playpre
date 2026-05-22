@@ -21,9 +21,10 @@
       {
         "name": "EVENTO 3",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
         "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
+        "drm_license_uri": "",
+        "oculto": false
       },
       {
         "name": "EVENTO 3 OPC 2",
