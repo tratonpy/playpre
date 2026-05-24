@@ -2828,19 +2828,6 @@
     ]
   },
   {
-    "name": "CANALES DE TyC SPORTS y DS SPORT EVENTOS",
-    "samples": [
-      {
-        "name": "Dsports 1",
-        "url": "http://veltixzone11.b-cdn.net/live/dtvsports1arg/s.m3u8",
-        "type": "HLS",
-        "icono": "https://app.femon.net/tv/banners/69fdc67d88e581.36033201.png",
-        "drm_license_uri": "",
-        "oculto": false
-      }
-    ]
-  },
-  {
     "name": "LANCTV",
     "samples": [
       {
