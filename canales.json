@@ -2427,6 +2427,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "Nickelodeon OPC 2",
+        "url": "http://45.5.151.147:8000/play/a00x/index.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PLIM PLIM",
         "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
         "type": "CLEARKEY",
