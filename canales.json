@@ -57,6 +57,13 @@
     "name": "EVENTOS DISNEY⚽️ 🏆",
     "samples": [
       {
+        "name": "INTER MIAMI VS PHILADELPHIA",
+        "url": "https://3augv7xzkdc.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+        "icono": "https://i.ibb.co/0RyGfzL5/Background-Eraser-20260525-140424633.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FANATIZ 1",
         "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
         "icono": "",
@@ -2777,19 +2784,6 @@
   },
   {
     "name": "FANATIZ SPORTS EVENTOS",
-    "samples": [
-      {
-        "name": "INTER MIAMI VS PHILADELPHIA",
-        "url": "https://3augv7xzkdc.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "icono": "https://i.postimg.cc/DfYNbgNt/descarga-(4).jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://gabito.site",
-          "Referer": "https://gabito.site/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
+    "samples": []
   }
 ]
