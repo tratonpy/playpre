@@ -90,6 +90,13 @@
         "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FANATIZ 6",
+        "url": "https://pr745.streamingtv339.com/fanatiz9/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -2764,13 +2771,6 @@
   {
     "name": "FANATIZ SPORTS EVENTOS",
     "samples": [
-      {
-        "name": "FANATIZ 6",
-        "url": "https://pr745.streamingtv339.com/fanatiz9/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.postimg.cc/3xVnTBPg/descarga.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "FANATIZ 7",
         "url": "https://pr745.streamingtv339.com/fanatiz8/tracks-v1a1/mono.m3u8",
