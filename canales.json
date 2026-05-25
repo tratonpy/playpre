@@ -22,6 +22,13 @@
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTO 3 OPC 2",
+        "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
+        "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -2896,13 +2903,6 @@
   {
     "name": "LANCTV",
     "samples": [
-      {
-        "name": "LANC 3 OPC 2",
-        "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.m3u8",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "LANCE 4",
         "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
