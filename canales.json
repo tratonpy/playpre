@@ -55,7 +55,15 @@
   },
   {
     "name": "EVENTOS DISNEY⚽️ 🏆",
-    "samples": []
+    "samples": [
+      {
+        "name": "FANATIZ 1",
+        "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "PARAGUAY🇵🇾",
@@ -2728,13 +2736,6 @@
   {
     "name": "FANATIZ SPORTS EVENTOS",
     "samples": [
-      {
-        "name": "FANATIZ 1",
-        "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "FANATIZ 2",
         "url": "https://pr745.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8",
