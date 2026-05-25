@@ -589,13 +589,6 @@
     "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷",
     "samples": [
       {
-        "name": "Dsports",
-        "url": "http://veltixzone11.b-cdn.net/live/dtvsports1arg/s.m3u8",
-        "icono": "https://app.femon.net/tv/banners/69fdc67d88e581.36033201.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ESPN 1",
         "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "type": "CLEARKEY",
