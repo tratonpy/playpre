@@ -3,13 +3,6 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
-        "name": "EVENTO 3",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
-        "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTO 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
@@ -22,6 +15,13 @@
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+      },
+      {
+        "name": "EVENTO 3",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/socerpy/playlist.m3u8",
+        "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
