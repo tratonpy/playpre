@@ -3,10 +3,10 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
-        "name": "Olimpia VS Audax Italiano1",
+        "name": "Olimpia VS Audax Italiano",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.ibb.co/Fq8J3ZkL/1779912038271.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
