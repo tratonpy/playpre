@@ -10,6 +10,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "Libertad VS Universidad Central",
+        "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/35sn3tcy/descarga.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTO 1",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
