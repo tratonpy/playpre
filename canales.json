@@ -3,6 +3,13 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
+        "name": "Olimpia VS Audax Italiano",
+        "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
+        "icono": "https://i.ibb.co/Fq8J3ZkL/1779912038271.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTO 1",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
