@@ -57,13 +57,6 @@
         "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Prueba1",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693"
       }
     ]
   },
