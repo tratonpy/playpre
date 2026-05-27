@@ -25,9 +25,9 @@
       },
       {
         "name": "EVENTO 3 OPC 2",
-        "url": "https://sam-py-edge01.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
