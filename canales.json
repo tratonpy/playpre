@@ -11,10 +11,10 @@
       },
       {
         "name": "EVENTO 2",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url": "https://stmv1.voxtvhd.com.br/toplatin1/toplatin1/playlist.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "EVENTO 3",
