@@ -208,7 +208,7 @@
       },
       {
         "name": "C9N  ",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png"
@@ -637,7 +637,7 @@
     "samples": [
       {
         "name": "ESPN 1",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png"
@@ -651,42 +651,42 @@
       },
       {
         "name": "ESPN 2",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png"
       },
       {
         "name": "ESPN 3",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png"
       },
       {
         "name": "ESPN 4",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png"
       },
       {
         "name": "ESPN 5",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png"
       },
       {
         "name": "ESPN 6",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png"
       },
       {
         "name": "ESPN 7",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png"
@@ -714,7 +714,7 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
@@ -1877,7 +1877,7 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-novelas_ef3dd51ad12e4663aa99802657a5417f.png"
@@ -2489,7 +2489,7 @@
       },
       {
         "name": "CARTOON NETWORK",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/m2rfcoqmlogiu30o4jg0g/clearkey_cartoon.json?rlkey=kj1z1akf4wmsnwxlkg6a53jz6&st=r7ncpfku&dl=0",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png"
@@ -2517,7 +2517,7 @@
       },
       {
         "name": "Discovery Kids",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/5oa9lnisiok9m04m03t7a/clearkey_kids.json?rlkey=tqis3cv4so98indhpc7eb8dvf&st=emvcbm0t&dl=0",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png"
@@ -2531,7 +2531,7 @@
       },
       {
         "name": "Cartoonito",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5ODY0MTQxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzgwODg3YWVjMDg3YzU4ZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.td0ec-XdD-KMopuJFPBOKoDNbO6CLD7JRtz0gjagTO_OAmIK7hB-nM1zxBZA5oIIUSdeuFUJEwHOAT0QU0cIoA==/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMDI3OTU2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiYzIzYzhhNGU2YTYzYjAyNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiI1OSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.KgOrpYEezM8ngTV5gZT2Pt9W0-kWXyps3VLx3SwEKkKeDCgRsopsRsflGxcuCvFoS2I5VtWtCW5i4grLUdvm9g==/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0",
         "icono": "https://i.ibb.co/rx04nzW/cartoonito.png"
