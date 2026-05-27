@@ -144,6 +144,13 @@
         "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DISNEY+ESPN",
+        "url": "http://186.33.54.46:8000/play/a019/index.m3u8",
+        "icono": "https://i.postimg.cc/JhDxrK7V/images-JHG.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
