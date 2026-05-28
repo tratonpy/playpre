@@ -3,13 +3,6 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
-        "name": "VISIÓN TV VILLARICA",
-        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
-        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTO 1",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
@@ -439,6 +432,13 @@
   {
     "name": "PARAGUAY INTERIORES 🇵🇾",
     "samples": [
+      {
+        "name": "VISIÓN TV VILLARICA",
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "5 TV MAX",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
