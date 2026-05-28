@@ -57,6 +57,18 @@
         "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Prueba",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
