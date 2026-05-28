@@ -18,7 +18,7 @@
       },
       {
         "name": "EVENTO 3",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
