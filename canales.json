@@ -3,13 +3,6 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
-        "name": "Libertad VS Universidad Central",
-        "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/35sn3tcy/descarga.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTO 1",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
