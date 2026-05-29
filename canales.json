@@ -3,13 +3,6 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
-        "name": "Cerro VS Sporting Cristal",
-        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/Q7FSTHDF/WA-1780001754870.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTO 1",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
