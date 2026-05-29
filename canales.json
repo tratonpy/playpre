@@ -132,6 +132,13 @@
     "name": "⚽ DEPORTES VARIADOS 2 (SIN BLOQUEO✅)",
     "samples": [
       {
+        "name": "ESPN PREMIUM",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ESPN 1",
         "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
