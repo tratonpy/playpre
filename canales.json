@@ -144,6 +144,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 4",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
