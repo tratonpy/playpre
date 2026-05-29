@@ -3,6 +3,13 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
+        "name": "Tigo Sports Py",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a186e488e/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTO 1",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
@@ -55,13 +62,6 @@
         "name": "ÑANDE PORTETEPE TV",
         "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Tigo Sports Py",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a186e488e/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
