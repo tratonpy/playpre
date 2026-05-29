@@ -186,6 +186,13 @@
         "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DIRECTV SPORTS",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
