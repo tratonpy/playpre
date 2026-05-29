@@ -85,6 +85,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "EVENTOS 3",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "icono": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FUTBOL 1",
         "url": "https://pr745.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8",
         "icono": "https://i.ibb.co/NgMrTfYB/WA-1779839477836.jpg",
