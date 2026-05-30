@@ -1,20 +1,7 @@
 [
   {
     "name": "UEFA Champions League (EN VIVO🟢)",
-    "samples": [
-      {
-        "name": "PSG VS ARSENAL",
-        "url": "https://1t83xvkdap8.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
-        "icono": "https://www.thesportsdb.com/images/media/event/thumb/68f48e1778654752.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://gabito.site",
-          "Referer": "https://gabito.site/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
-      }
-    ]
+    "samples": []
   },
   {
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
@@ -245,6 +232,18 @@
         "icono": "http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": ".",
+        "url": "https://1t83xvkdap8.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://gabito.site",
+          "Referer": "https://gabito.site/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
