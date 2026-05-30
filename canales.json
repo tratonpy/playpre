@@ -78,10 +78,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Pruwba2",
+        "name": "Pruwba2hfm",
         "url": "http://18.227.48.113:4000/api/v2/fetch/1lcdq84.dat?src=http%3A%2F%2F167.17.67.240%2FESPN1..%2Findex.m3u8&vid=h7aphn4p8xmprrlc9t&token=29.1780124500047.7437c4ce2d996a131f42f04a9d2c8bf269713dacfe23f2a334bad662de656c1d",
         "icono": "",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       }
     ]
