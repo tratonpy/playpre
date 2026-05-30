@@ -1,7 +1,15 @@
 [
   {
     "name": "Final de la Champions League (Mañana a las 13:00 )",
-    "samples": []
+    "samples": [
+      {
+        "name": "PSG VS ARSENAL",
+        "url": "Mmm",
+        "icono": "https://www.thesportsdb.com/images/media/event/thumb/68f48e1778654752.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
