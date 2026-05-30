@@ -76,6 +76,13 @@
         "icono": "https://i.postimg.cc/RFT7M5Xj/Whats-App-Image-2026-04-26-at-4-36-08-PM.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Pruebahd",
+        "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
