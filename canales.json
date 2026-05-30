@@ -21,7 +21,7 @@
     "samples": [
       {
         "name": "Tigo Sports Py",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a186e488e/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url": "https://stmv4.voxtvhd.com.br/deportemas/deportemas/playlist.m3u8",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
         "type": "HLS",
         "drm_license_uri": ""
