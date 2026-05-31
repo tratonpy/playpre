@@ -1,26 +1,15 @@
 {
-  "show": false,
-  "version": 7,
-  "force": false,
 
-  "title": "Actualización disponible",
-  "message": "Debes actualizar la aplicación para continuar usando el servicio.",
+  "show": true,
 
-  "update_url": "https://tuservidor.com/app.apk",
+  "version": 9,
 
-  "features": [
-    "Mejoras de rendimiento",
-    "Corrección de errores",
-    "Nuevos canales agregados"
-  ],
+  "force": true,
 
-  "maintenance": true,
-  "maintenance_message": "La app está en mantenimiento. Intenta más tarde.",
+  "title": "Nueva actualizacion",
 
-  "min_supported_version": 5,
+  "message": "Correcci�n de errores y mejoras en el dise�o.",
 
-  "dialog": {
-    "cancel_text": "Después",
-    "update_text": "Actualizar ahora"
-  }
+  "update_url": "https://mundodeportes.online/pandatv/hgtv/8.0.apk"
+
 }
