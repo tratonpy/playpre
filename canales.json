@@ -4,9 +4,9 @@
     "samples": [
       {
         "name": "Tigo Sports Py",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a1b802721/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a1c2e61fe/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
