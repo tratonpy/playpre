@@ -1897,10 +1897,10 @@
       },
       {
         "name": "COMEDY CENTRAL",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMzM2NzI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRmZGI5ZDJkNmYxYWRiY2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMTk2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.OLBcQ_kJMOGo7szl6J0mSMGaA2NJNMLZ8JNzIBwI2dIejqbotHVYI_f75HKwDF68LWfnwYLbmc5H6lsruRM3zQ==/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png"
+        "url": "http://45.5.151.147:8000/play/a01c/index.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "Sony Movies",
