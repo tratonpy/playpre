@@ -2175,10 +2175,10 @@
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
       {
-        "name": "Canal De Las Estrellas",
-        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-        "type": "HLS",
+        "name": "Las Estrellas",
+        "url": "http://45.5.151.147:8000/play/a02y/index.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
