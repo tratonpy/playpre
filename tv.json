@@ -268,6 +268,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TELEFUTURO",
+        "url": "https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "C9N",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_4276517416086298479_hls.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
@@ -278,13 +285,6 @@
         "name": "HEI",
         "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TELEFUTURO",
-        "url": "https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
