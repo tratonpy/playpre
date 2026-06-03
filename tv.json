@@ -2398,6 +2398,13 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0",
         "icono": "https://i.ibb.co/rx04nzW/cartoonito.png"
+      },
+      {
+        "name": "Disney Junior",
+        "url": "http://45.5.151.147:8000/play/a00v/index.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
