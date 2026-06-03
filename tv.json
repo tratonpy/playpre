@@ -348,6 +348,13 @@
         "icono": "https://i.postimg.cc/g0GvTJ7b/download-65.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "UNICANAL PY",
+        "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8",
+        "icono": "https://i.postimg.cc/5t2xrS9D/download-64.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
