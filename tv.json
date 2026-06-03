@@ -1891,16 +1891,11 @@
         "drm_license_uri": ""
       },
       {
-        "name": "HBO 2 op",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "name": "HBO 2",
+        "url": "http://168.228.44.241:9998/play/a017/12492411.m3u8",
         "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": ""
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "HBO XTREME",
