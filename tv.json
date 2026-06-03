@@ -1934,10 +1934,10 @@
       },
       {
         "name": "HBO Plus",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMzM2NzI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRmZGI5ZDJkNmYxYWRiY2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMTk2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.OLBcQ_kJMOGo7szl6J0mSMGaA2NJNMLZ8JNzIBwI2dIejqbotHVYI_f75HKwDF68LWfnwYLbmc5H6lsruRM3zQ==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
-        "type": "CLEARKEY",
+        "url": "http://45.5.151.147:8000/play/a013/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
-        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d"
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "UNIVERSAL CINEMA",
