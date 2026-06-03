@@ -357,6 +357,13 @@
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ROCK & POP PY",
+        "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2titQuFvlj2uQQyUYquNXa868rumlDV9OPg&s",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
