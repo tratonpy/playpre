@@ -350,6 +350,13 @@
         "icono": "https://i.postimg.cc/5t2xrS9D/download-64.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "UNION TV",
+        "url": "https://rds3.desdeparaguay.net/800tv/800tv/chunklist.m3u8",
+        "icono": "https://i.ibb.co/9hqVmzy/descarga.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
