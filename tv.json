@@ -357,6 +357,18 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2titQuFvlj2uQQyUYquNXa868rumlDV9OPg&s",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Snt prueba",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
