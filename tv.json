@@ -24,6 +24,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TELEFE",
+        "url": "http://45.5.151.147:8000/play/a00g/index.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTO PY 2",
         "url": "https://stmv4.voxtvhd.com.br/deportemas/deportemas/playlist.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
@@ -491,13 +498,6 @@
         "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "TELEFE",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMzM2NzI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjRmZGI5ZDJkNmYxYWRiY2YiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMTk2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.OLBcQ_kJMOGo7szl6J0mSMGaA2NJNMLZ8JNzIBwI2dIejqbotHVYI_f75HKwDF68LWfnwYLbmc5H6lsruRM3zQ==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png"
       },
       {
         "name": "EL TRECE",
