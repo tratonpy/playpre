@@ -282,6 +282,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ABC TV",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(2-i5XFTZOSpTxxWZUBrXOIPZucxw7HxydnGmTiMzrP0c-7EzpI6ANKQWtAU-er6rX5N2RzwYK96HWPDtyDFDaNdxKN1N2RhnbxaMFuXjMmKam7Vf6h418JLbHeWcjAuu)/cloud/3/x9skr3m/d/live-480.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://i.postimg.cc/0QP6WwKq/download-27.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "POPU TV",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
