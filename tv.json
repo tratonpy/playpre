@@ -1892,7 +1892,7 @@
       },
       {
         "name": "HBO 2",
-        "url": "http://168.228.44.241:9998/play/a017/12492411.m3u8",
+        "url": "http://45.5.151.147:8000/play/a010/index.m3u8",
         "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
         "type": "HLS",
         "drm_license_uri": ""
