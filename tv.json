@@ -724,6 +724,13 @@
         "icono": "https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Red Advenir",
+        "url": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+        "icono": "https://i.postimg.cc/KzyN2BxQ/advenr.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
