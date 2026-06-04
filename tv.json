@@ -2496,6 +2496,13 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CINE LATINO",
+        "url": "http://217.26.190.76:8888/play/a0ja/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
