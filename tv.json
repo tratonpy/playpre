@@ -733,6 +733,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "Nuevo Tiempo",
+        "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
+        "icono": "https://banners.femon.net/banners/6979033dea2055.28688139.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "Unife",
         "url": "https://mediastore01.playme.com.ar/dash/CH_UNIFE/playlist.mpd?csi=38643530373638662d373365342d343433652d383737302d333562396338303765363433235745422331373538343839333430",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/UNIFE_logo.png",
