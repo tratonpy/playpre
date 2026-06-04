@@ -17,6 +17,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
       },
       {
+        "name": "Tigo Sports 3",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a1cbca79a/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1776838279_350-pg-nuevo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+      },
+      {
         "name": "EVENTO PY 1",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/Y4k5pct0/Background-Eraser-20260525-140325571.png",
