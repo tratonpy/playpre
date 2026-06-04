@@ -696,6 +696,13 @@
         "icono": "https://i.postimg.cc/rpVyvBRy/Whats-App-Image-2026-04-26-at-4-43-04-PM.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EWTN GLOBAL",
+        "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+        "icono": "https://es.wikipedia.org/wiki/Archivo:New_EWTN_logo.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
