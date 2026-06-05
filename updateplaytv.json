@@ -1,11 +1,8 @@
 {
-
-  "version": "7.8",
-
-  "url": "https://mundodeportes.online/pandatv/playpre/7.8.apk",
-
-  "cambios": "4 Nuevos Servidores Full",
-
-  "forzada": true
-
+  "modo": "normal",
+  "alerta_visible": true,
+  "titulo": "Aviso",
+  "mensaje": "16 canales nuevos recién agrega \nTV RELIGIOSOS Y MAS.",
+  "nueva_version": "",
+  "url_descarga": ""
 }
