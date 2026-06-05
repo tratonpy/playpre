@@ -10,9 +10,9 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EN VIVO🟢",
+        "name": "EN VIVO🟢 2",
         "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
-        "icono": "",
+        "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
