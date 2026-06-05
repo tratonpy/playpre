@@ -3256,6 +3256,13 @@
     "name": "MÚSICALES🎶",
     "samples": [
       {
+        "name": "TELE HIT",
+        "url": "http://217.26.190.76:8888/play/a0jn/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TOP LATINO",
         "url": "http://217.26.190.76:8888/play/a0jv/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png",
