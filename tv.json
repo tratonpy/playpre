@@ -4,9 +4,9 @@
     "samples": [
       {
         "name": "EN VIVO 🟢",
-        "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/09_1610033638/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "icono": "https://imagizer.imageshack.com/img922/3888/UpCViD.jpg",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       }
     ]
