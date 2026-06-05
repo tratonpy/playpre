@@ -2653,7 +2653,15 @@
   },
   {
     "name": "ENTRETENIMIENTO🍿",
-    "samples": []
+    "samples": [
+      {
+        "name": "DISTRITO COMEDIA",
+        "url": "http://217.26.190.76:8888/play/a0jc/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "🎬 CINES 24/7",
