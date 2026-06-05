@@ -3,8 +3,8 @@
     "name": "PARAGUAY 🇵🇾 VS NICARAGUA 🇳🇮",
     "samples": [
       {
-        "name": "EN VIVO 🟢",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
+        "name": "EN VIVO 🟢2",
+        "url": "http://icomplay.net:80/play/LiKvMeCdFF0dRERlL5_2sfvS78dmKd1yiM4i-DUlU_aZ5cu9ebTNLKWlyxwVPAof/.m3u8",
         "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
         "type": "HLS",
         "drm_license_uri": ""
