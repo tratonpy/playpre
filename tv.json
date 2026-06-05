@@ -2258,6 +2258,13 @@
         }
       },
       {
+        "name": "GOLDEN PREMIER",
+        "url": "http://217.26.190.76:8888/play/a0jk/index.m3u8",
+        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "WARNER CHANNEL",
         "url": "https://edge-live13-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwNjg4MzY3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiI4Y2I1YzdmYjRlYzBjMDk2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjkzIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.bX2yVdE1sKSYtp2aW3fXCxI8sysaG950KIgxvTDNZ0JXBQsNpP2DyFSb79B1OJ0ILBcn4tdLFnyFRDyjw9z4eQ==/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "type": "CLEARKEY",
