@@ -1,7 +1,15 @@
 [
   {
     "name": "PARAGUAY 🇵🇾 VS NICARAGUA 🇳🇮",
-    "samples": []
+    "samples": [
+      {
+        "name": "EN VIVO 🟢",
+        "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/3888/UpCViD.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "EVENTOS PY",
