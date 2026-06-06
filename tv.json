@@ -71,13 +71,6 @@
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Prueba",
-        "url": "http://icomplay.net:80/play/LiKvMeCdFF0dRERlL5_2sfvS78dmKd1yiM4i-DUlU_aZ5cu9ebTNLKWlyxwVPAof/.ts",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
