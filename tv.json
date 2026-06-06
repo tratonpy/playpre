@@ -1,31 +1,5 @@
 [
   {
-    "name": "PARAGUAY 🇵🇾 VS NICARAGUA 🇳🇮",
-    "samples": [
-      {
-        "name": "EN VIVO1 🟢1",
-        "url": "http://icomplay.net:80/play/LiKvMeCdFF0dRERlL5_2sfvS78dmKd1yiM4i-DUlU_aZ5cu9ebTNLKWlyxwVPAof/.m3u8",
-        "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EN VIVO🟢 2",
-        "url": "https://video.streamradiomax.com/live/sk_raYKeztuWysqi3ZgRxSegPDM.m3u8",
-        "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EN VIVO🟢 3",
-        "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
-        "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "EVENTOS PY",
     "samples": [
       {
