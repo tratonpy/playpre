@@ -10,10 +10,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EN VIVO 🟢1",
+        "name": "EN VIVO1 🟢1",
         "url": "http://icomplay.net:80/play/LiKvMeCdFF0dRERlL5_2sfvS78dmKd1yiM4i-DUlU_aZ5cu9ebTNLKWlyxwVPAof/.m3u8",
         "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
