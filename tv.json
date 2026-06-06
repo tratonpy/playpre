@@ -19,7 +19,7 @@
       {
         "name": "EN VIVO🟢 3",
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
-        "icono": "",
+        "icono": "https://i.ibb.co/fmdmnLK/images.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
