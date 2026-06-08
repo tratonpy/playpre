@@ -939,13 +939,6 @@
     "name": "⚽EVENTOS FLOW ⚽",
     "samples": [
       {
-        "name": "PARAGUAY VS NICARAGUA OPC 2",
-        "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(lBmFshiezf09fraO6UJner6LXTa_iY9SIZFt4MbOHygIhocv3mR29J-3N9kafSW0DIsAHkw8fOTiERZ4CZn2FsbBZesfU0FTHD9pgOnZ9XOtNwOo5sDAR9aMGJh-gSuK)/dm/3/xaa5iv6/s/live-480.m3u8#cell=lcf-eu-north-1a",
-        "icono": "https://i.postimg.cc/YCdKzmFF/Whats-App-Image-2026-06-04-at-2-44-51-PM.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS FLOW 1",
         "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODA1NjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJjYTFkYzZmMDY2MzNlNjk3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.UqJPFWDt-RYbWDQnsA-CMVF7QsPEfwu1nRQs_qyNwbqsa197gFnUuzOKeVab2cYZNgYCZ43pvQ44agL9p12kJw==/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
         "type": "CLEARKEY",
