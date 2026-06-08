@@ -385,6 +385,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ABC TV",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8SdYD3SmuPZBkBWGU1HQHYnR9dydPRwWrYaHT5_tSgC1ZV29VJDN8hx5dr4b1qsre2gqE3-fE2ldmDavQKejM3rukYXZGioJDhHqzreX4pm3xnNpcUC_x4rKbrEai-gP)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "5 TV MAX",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
