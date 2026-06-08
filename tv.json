@@ -2122,8 +2122,8 @@
         "drm_license_uri": ""
       },
       {
-        "name": "HBO 21",
-        "url": "http://194.46.59.58:8080/hls/c832c81c7fb467f1944f274748645bc5/187164_6166.ts",
+        "name": "HBO 2",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187164.m3u8",
         "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
         "type": "HLS",
         "drm_license_uri": ""
