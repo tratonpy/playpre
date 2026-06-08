@@ -2372,7 +2372,7 @@
       },
       {
         "name": "TNT HD",
-        "url": "http://200.219.40.1:8000/play/a07e/index.m3u8",
+        "url": "http://190.7.19.197:232/play/a060/index.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
         "type": "HLS",
         "drm_license_uri": ""
