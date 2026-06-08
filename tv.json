@@ -407,9 +407,9 @@
       },
       {
         "name": "UNICANAL HD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(0EzXPf4Q2T6S94m5_2IyGTP0pJRF_mKHya9SWYU25puF8cy9mxxJ6cYsHt3F1gAUg69Nk8abOz6Dbq27IITnyAjEe41tzqkezjg4kFnrZgI1DKE9su6Nrzt8pO4yEkri)/cloud/3/x9ko9z8/s/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(KeEyygquLtyzRPuwAKxoiubT_hI4oSdEiD_iX7FQxCo8OQALoiCaiij1tFrBT7Mc8f027-0wkrZf0OXJmcpNuTrvnAEYf-5hiUVwvrQEJVZ89wMMTsYdUNUVQmM6Hn4u)/cloud/3/x9ko9z8/s/live-480.m3u8#cell=lcf2-eu-north-1b",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/unicanal_400d422fe95f40ff8d32d2442cb47d21.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
