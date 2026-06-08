@@ -344,9 +344,9 @@
       },
       {
         "name": "TELEFUTURO",
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "url": "https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=00d6e16ac4838c1cc00edd214d1d429e2f5130da502a6214ac95bd6bf8684fa2&exp=1780920352",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
