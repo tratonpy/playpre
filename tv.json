@@ -2165,7 +2165,7 @@
       },
       {
         "name": "UNIVERSAL CINEMA",
-        "url": "http://187.245.231.227:8000/play/a0q5/index.m3u8",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187233.m3u8",
         "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
         "type": "HLS",
         "drm_license_uri": ""
