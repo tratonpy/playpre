@@ -132,18 +132,6 @@
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Sntpro",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://oikoapp.xyz/selvanegra/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
