@@ -2158,7 +2158,7 @@
       },
       {
         "name": "HBO Plus",
-        "url": "http://168.228.44.241:9998/play/a018/index.m3u8",
+        "url": "http://iptvglobal.site:8080/live/LEO8AxBRM/Qwerty20/769184.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
         "type": "HLS",
         "drm_license_uri": ""
