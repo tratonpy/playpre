@@ -3033,7 +3033,7 @@
       {
         "name": "Nickelodeon",
         "url": "http://45.5.151.147:8000/play/a00x/index.m3u8",
-        "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
