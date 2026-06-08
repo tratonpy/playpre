@@ -2130,7 +2130,7 @@
       },
       {
         "name": "HBO XTREME",
-        "url": "http://186.194.160.110:9002/play/a0hd/index.m3u8",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/280427.m3u8",
         "icono": "https://i.ibb.co/xG6HY4G/30.jpg",
         "type": "HLS",
         "drm_license_uri": ""
