@@ -3037,15 +3037,10 @@
       },
       {
         "name": "Nickelodeon",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODA1NjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJjYTFkYzZmMDY2MzNlNjk3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.UqJPFWDt-RYbWDQnsA-CMVF7QsPEfwu1nRQs_qyNwbqsa197gFnUuzOKeVab2cYZNgYCZ43pvQ44agL9p12kJw==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/hca3hwm6zg6bxfsup4q4l/clearkey_nicklodeon.json?rlkey=8tknn2ho8tcqlm27xncrozgbq&st=xzikfv5k&dl=0",
+        "url": "http://45.5.151.147:8000/play/a00x/index.m3u8",
         "icono": "https://lokos.pages.dev/webp/logos/nick.webp",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "Cartoonito",
