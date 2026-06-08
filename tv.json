@@ -2144,7 +2144,7 @@
       },
       {
         "name": "HBO SIGNATURE",
-        "url": "http://200.219.40.1:8000/play/a02c/index.m3u8",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187167.m3u8",
         "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
         "type": "HLS",
         "drm_license_uri": "http://200.219.40.1:8000/play/a02c/index.m3u8"
