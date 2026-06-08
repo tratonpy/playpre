@@ -3024,7 +3024,7 @@
       {
         "name": "Disney Junior",
         "url": "http://45.5.151.147:8000/play/a00v/index.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
