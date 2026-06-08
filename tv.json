@@ -358,7 +358,7 @@
       },
       {
         "name": "TRECE PY HD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=IDwhuxxKIfaDDRmtLOv5lw4RBsoVI79QzHkpJfrecvS8Jdvfl_05vOD9uPQgZKcsnKr70U1tRf6XlfecizSE-KvyZ_Ro-p4-GKUAIlMgpY4&dmV1st=506c4fc5-01a4-378f-acec-511239ac362e&dmTs=86348",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
         "type": "HLS",
         "drm_license_uri": ""
