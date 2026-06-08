@@ -3022,16 +3022,11 @@
         }
       },
       {
-        "name": "Disney Channel",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODA1NjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJjYTFkYzZmMDY2MzNlNjk3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.UqJPFWDt-RYbWDQnsA-CMVF7QsPEfwu1nRQs_qyNwbqsa197gFnUuzOKeVab2cYZNgYCZ43pvQ44agL9p12kJw==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/29jxjbh4i8hty39ndi5fr/clearkey_disneyhd.json?rlkey=jnllgciun10tmhdxkv1i2glfi&st=kw1j2cwe&dl=0",
+        "name": "Disney Junior",
+        "url": "http://45.5.151.147:8000/play/a00v/index.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/disney_d5071169290145b1868189846bde1de5.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "Discovery Kids",
