@@ -411,13 +411,6 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "TVA OVIEDO",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
