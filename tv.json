@@ -50,13 +50,6 @@
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Pro2",
-        "url": "http://190.7.19.197:232/play/a03b/index.m3u8",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
