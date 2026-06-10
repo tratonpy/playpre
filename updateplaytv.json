@@ -1,8 +1,15 @@
 {
-  "modo": "normal",
-  "alerta_visible": true,
-  "titulo": "Aviso",
-  "mensaje": "16 canales nuevos recién agrega \nTV RELIGIOSOS Y MAS.",
-  "nueva_version": "",
-  "url_descarga": ""
+
+  "version": "7.9",
+
+  "url": "https://www.mediafire.com/file/f8s9n2nmbueg0uj/Play_Tv_Premium_7.8.apk/file",
+
+  "cambios": "Se corrigieron errores",
+  
+  "cambios": "Canales Actualizados",
+  
+  "cambios": "Todo listo para el mundial.",
+
+  "forzada": true
+
 }
